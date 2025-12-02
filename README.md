@@ -184,7 +184,7 @@ Training histories and detailed performance metrics are available in the test no
 
 Lan Anh Do - [LinkedIn](https://www.linkedin.com/in/lananhnguyendo/)
 
-Project Link: [GitHub](https://github.com/UF-MLforAISystems-Fall24/project-3-undergraduate-laba-ehehe.git)
+Project Link: [GitHub](https://github.com/laba-ehehe/ann-flower-classification-car-detection)
 
 ## Acknowledgements
 
